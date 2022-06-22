@@ -1,0 +1,24 @@
+﻿  main.cpp
+C:\Users\jonas\Documents\Koding\Solutions\RunWithYourFriends\RunWithYourFriends\main.cpp(19,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jonas\Documents\Koding\Solutions\RunWithYourFriends\RunWithYourFriends\main.cpp(19,24): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\jonas\Documents\Koding\Solutions\RunWithYourFriends\RunWithYourFriends\main.cpp(49,1): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\jonas\Documents\Koding\Solutions\RunWithYourFriends\RunWithYourFriends\main.cpp(306,31): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\jonas\Documents\Koding\Solutions\RunWithYourFriends\RunWithYourFriends\main.cpp(308,32): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\jonas\Documents\Koding\Solutions\RunWithYourFriends\RunWithYourFriends\main.cpp(509,1): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\jonas\Documents\Koding\Solutions\RunWithYourFriends\RunWithYourFriends\main.cpp(594,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jonas\Documents\Koding\Solutions\RunWithYourFriends\RunWithYourFriends\main.cpp(602,73): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jonas\Documents\Koding\Solutions\RunWithYourFriends\RunWithYourFriends\main.cpp(602,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\jonas\Documents\Koding\Solutions\RunWithYourFriends\RunWithYourFriends\main.cpp(670,108): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  RunWithYourFriends.vcxproj -> C:\Users\jonas\Documents\Koding\Solutions\RunWithYourFriends\Debug\RunWithYourFriends.exe
